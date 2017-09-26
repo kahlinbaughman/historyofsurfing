@@ -1,0 +1,10 @@
+body {
+  font-family: "Monoton", cursive;
+  background-image: url(giphy.webp);
+  color: yellow;
+  text-align: center;
+}
+
+h1, h2 {
+  font-size: 100px;
+}
